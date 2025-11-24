@@ -1,2 +1,3 @@
 # Hand-tracked-Metaballs
-Assignment3 of SD5913
+## Gameplay
+Control the size by stretching and extending fingers. Move fingers to collide with other bubbles
